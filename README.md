@@ -14,3 +14,6 @@ This project focuses on creating an interactive dashboard that effectively visua
 
 # Data
   Sample Online Sales Dataset
+
+## Screenshot
+![image](https://github.com/user-attachments/assets/f2357fff-eef6-41b1-a6ff-9a3625e333b0)
